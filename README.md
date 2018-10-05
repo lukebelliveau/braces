@@ -19,7 +19,7 @@ will print -1 to the console.
 
 Clone and install dependencies: 
 
-`git clone https://github.com/lukebelliveau/braces && cd braces && yarn install`
+`git clone https://github.com/lukebelliveau/braces.git && cd braces && yarn install`
 
 Run the program by including your input string inside of double quotes:
 
